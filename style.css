@@ -1,0 +1,44 @@
+
+.sign-btn{
+    height: 43px;
+    width: 104px;
+    left: 1201px;
+    top: 25px;
+    border-radius: 33px;
+    padding: 12px, 28px, 12px, 28px;
+    background-color: #21B573;
+    border: none;
+    color: white;
+}
+
+#nav-bar{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400 ;
+    font-size: 16px;
+
+}
+.bg-ash{
+    background-color: #F0FFF0;
+}
+#get-start img{
+    width: 100%;
+}
+#get-start{
+    font-family: 'Poppins', sans-serif;
+}
+#get-start h1{
+    font-weight: 700;
+
+}
+
+#get-start p{
+    font-weight: 400;
+    font-size: 16px;
+}
+#p-1{
+    color:#FD511A;
+}
+
+#p-2{
+    color: #6C6B6B;
+}
