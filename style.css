@@ -1,6 +1,11 @@
-
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    margin-bottom: 40px;
+}
 .sign-btn{
-    height: 43px;
+    height: 38px;
     width: 104px;
     left: 1201px;
     top: 25px;
@@ -9,10 +14,10 @@
     background-color: #21B573;
     border: none;
     color: white;
+    font-family: 'Roboto', sans-serif;
 }
 
 #nav-bar{
-    font-family: 'Poppins', sans-serif;
     font-weight: 400 ;
     font-size: 16px;
 
@@ -23,9 +28,7 @@
 #get-start img{
     width: 100%;
 }
-#get-start{
-    font-family: 'Poppins', sans-serif;
-}
+
 #get-start h1{
     font-weight: 700;
 
@@ -42,3 +45,85 @@
 #p-2{
     color: #6C6B6B;
 }
+#content img{
+    width: 40px;
+}
+.content{
+    font-family: 'Poppins', sans-serif;
+    height: 150px;
+    width: 150px;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 5px;
+}
+.content h6{
+    font-weight: 500;
+    font-size: 15px;
+    color:#413960;
+    margin-bottom: 0;
+}
+
+.content p{
+    font-weight: 400;
+    font-size: 10px;
+    color: #585859;
+}
+.content img{
+    margin-bottom: 20px;
+}
+.start-seat img{
+    width: 20px;
+    height: 20px;
+}
+.categories h1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: #413960;
+    margin-bottom: 30px;
+    margin-top: 60px;
+}
+.date-seat img{
+    width: 20px;
+    height: 20px;
+}
+.date-seat{
+    margin-top: 35px;
+    margin-bottom: 0;
+    font-weight: 500;
+    font-size: 16px;
+    color: #585859;
+}
+.card{
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 10px 10px 30px lightgrey;
+    border: none;
+}
+.card h3{
+    font-size: 24px;
+    font-weight: 500;
+    color: #413960;
+}
+.card h5{
+    color: #585859;
+    font-size: 16px;
+    font-weight: 400;
+}
+.testimonial img{
+    width: 120px;
+    height: 120px;
+}
+.testimonial h1{
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 30px;
+    margin-top: 80px;
+
+}
+.testimonial p{
+    font-weight: 400;
+    margin-left: 60px;
+}
+
